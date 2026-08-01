@@ -1,5 +1,5 @@
 Know Tomorrow Better
--is a modern ai astrology engine chatbot built to bring high-precision celestial data to life. It features full interactive birth chart creation, daily transit tracking, zodiac compatibility analysis, and personalized horoscope feeds—all rendered through clean visual components and an intuitive user interface.
+-is a modern ai astrology engine chatbot built to bring high-precision celestial data to life. It features full interactive birth signs calculation, daily transit tracking, zodiac compatibility analysis, and personalized horoscope feeds—all rendered through clean visual components and an intuitive user interface.
 
 The Tech Stack
 Behind the celestial crystal ball is a modern, robust, and highly reliable Python stack. Let’s break down the key ingredients:
